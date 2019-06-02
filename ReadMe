@@ -1,0 +1,14 @@
+Coded in Java 
+DialogueFlow ChatBot can be implemented in any activity of an Android app in Java or Kotlin
+
+Some Specifications:
+Android Version: 6.0 Marshmellow 
+Android SDK version:
+    minSdkVersion 24
+    targetSdkVersion 28
+
+
+Change value of ACCESS_TOKEN to your Agent access token, in main_Activity line 30
+
+Warnings:
+This Dialogflow client library and Dialogflow API V1 have been deprecated and will be shut down on October 23th, 2019. 
