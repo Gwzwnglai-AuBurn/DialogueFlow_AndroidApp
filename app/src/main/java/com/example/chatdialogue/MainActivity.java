@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
             startActivityForResult(intent, REQ_CODE_SPEECH_INPUT);
         } catch (ActivityNotFoundException a) {
             Toast.makeText(getApplicationContext(),
-                    "orry! Your device doesn\\'t support speech input",
+                    "Sorry! Your device doesn't support speech input",
                     Toast.LENGTH_SHORT).show();
         }
     }
@@ -147,7 +147,6 @@ public class MainActivity extends AppCompatActivity {
 
 
             text = sb.toString();
-
 
 
             JSONObject object1 = new JSONObject(text);
