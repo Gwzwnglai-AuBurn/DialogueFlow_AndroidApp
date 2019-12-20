@@ -1,3 +1,6 @@
+Deprecation
+
+
 Coded in Java 
 DialogueFlow ChatBot can be implemented in any activity of an Android app in Java or Kotlin
 
@@ -12,6 +15,3 @@ Change value of ACCESS_TOKEN to your Agent access token, in main_Activity line 3
 
 Warnings:
 This Dialogflow client library and Dialogflow API V1 have been deprecated and will be shut down on October 23th, 2019. 
-
-Resources:
-https://www.youtube.com/watch?v=C_fV3mqpfPg
